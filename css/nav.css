@@ -1,0 +1,183 @@
+.justify {
+	width: 800px;
+	margin: 0 auto;
+}
+
+.left {
+	float: left;
+	text-align: left;
+	padding: 0 0 0 20px;
+}
+
+.right {
+	float: right;
+	text-align: right;
+	padding: 0 20px;
+}
+
+.center {
+	clear: both;
+	text-align: center;
+	padding: 6px;
+}
+
+#nav, #footer {
+	font: 13px Verdana, Arial, Helvetica, sans-serif;
+}
+
+#nav {
+	background: #222; /*dark theme*/
+/*	background: #ddd; light theme*/
+	color: #000; /*dark theme*/
+/*	color: #fff; light theme*/
+/*	padding: 0 0 60px 0;*/
+	padding: 0 0 19px 0;
+}
+
+#nav a {
+	margin: -6px;
+	padding: 3px;
+	display: inline;
+	color: #bf5d0c; /*dark theme*/
+/*	color: #eee; light theme*/
+/*	border: 1px solid #5f320b; */
+/*	border-bottom: 1px solid #bf5d0c; */
+	background: #000;
+/*	background: #552905;*/
+/*	background: #0b325f; dark blue*/
+/*	background: #3672aa; blue*/
+	text-decoration: none;
+}
+
+#nav a:hover {
+	color: #cc9630; /*dark theme*/
+/*	color: #fff; light theme*/
+/*	background: #552905;*/
+/*	background: #0b325f; dark blue*/
+/*	background: #4896bb; light blue*/
+/*	border-bottom: 1px solid #cc9630; */
+	text-decoration: none;
+}
+
+#nav ul {
+	margin: 0;
+	padding: 12px;
+	list-style-type: none;
+/*	color: #aa520b;
+	background: #c93; */
+/*	background: #5f320b; */
+}
+
+#nav li {
+	margin: 6px;
+	padding: 1px;
+	display: inline;
+}
+
+#nav .menu {
+	margin: 0;
+}
+
+#nav .menu span {
+	display: none;
+}
+
+#nav .menu a {
+	margin: 0;
+}
+
+#nav .menu a:hover {
+/*	color: #cc9630; */
+/*	background: #aa520b; */
+/*	background: #552905; */
+}
+
+#nav .menu ul {
+	margin: 8px 0 0 -6px;
+	margin: -3px 0 0 0;
+	padding: 0;
+	list-style-type: none;
+	display: inline;
+	position: absolute;
+}
+
+#nav .menu li {
+	margin: 0;
+	padding: 0;
+}
+
+#nav .menu li a {
+	margin: 0;
+	padding: 3px;
+	display: none;
+/*	color: #bf5d0c; */
+/*	background: #000;
+	background: #5f320b;*/
+}
+
+#nav .menu ul li a:hover,
+#nav .menu ul li:hover a,
+#nav .menu ul:hover li a,
+#nav .menu:hover ul li a {
+	display: block;
+}
+
+#nav .menu:hover > a,
+#nav .menu:hover a.selected {
+/*	color: #aa7d28; */
+/*	border-bottom: 1px solid #aa7d28; */
+}
+
+#nav .menu:hover a:hover,
+#nav .menu a:hover {
+/*	color: #cc9630; */
+/*	border-bottom: 1px solid #cc9630; */
+/*	background: #aa520b; */
+/*	background: #552905; */
+}
+
+#nav .menu a.selected {
+	display: block;
+/*	color: #bf5d0c; */
+/*	background: #8d4409; */
+}
+
+#nav .menu > a {
+	visibility: hidden;
+}
+
+/*
+#nav div>ul>li:before {
+	content: "|";
+}
+#nav div>ul>li:first-child:before {
+	content: "";
+}
+*/
+
+#nav .menu a.selected:after {
+/*	content: "  v";
+	color: #bf5d0c;*/
+}
+
+#footer {
+	padding: 9px 0;
+	text-align: center;
+	font-size: 9px;
+	letter-spacing: .2em;
+/*	background: #000;
+	border-top: 1px solid #333; */
+	bottom: 0px;
+	height: 12px;
+	position: fixed;
+	left: 0;
+	width: 100%;
+}
+
+#footer a {
+	text-decoration: none;
+}
+
+#footer a:hover {
+	text-decoration: none;
+}

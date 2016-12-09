@@ -1,0 +1,5 @@
+/* fixes for IE 8 and higher */
+
+#news blockquote:before {
+	content: "";
+}

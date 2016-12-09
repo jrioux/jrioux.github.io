@@ -1,0 +1,387 @@
+* {
+	margin: 0;
+}
+
+body {
+/*	text-align: center; */
+	background: #000;
+/*	background: #180612;*/
+}
+
+span {
+	display: none;
+}
+
+#background {
+	background-repeat: no-repeat;
+	bottom: 0px;
+	position: absolute;
+	top: 20px;
+	width: 800px;
+	z-index: -1;
+}
+
+#content {
+	margin: 1px auto;
+	background: #222; /*dark theme*/
+	color: #ddd; /*dark theme*/
+/*	background: #ddd; light theme*/
+/*	color: #111; light theme*/
+}
+
+#outer {
+	position: absolute;
+	top: 50%;
+	left: 0px;
+	width: 100%;
+	height: 1px;
+}
+
+#inner {
+	margin-left: -350px;
+	position: absolute;
+	top: -150px;
+	left: 50%;
+	width: 700px;
+	height: 300px;
+}
+
+#inner a {
+	text-decoration: none;
+	color: #ddd; /*dark theme*/
+/*	color: #361224; light theme*/
+}
+
+#inner .subtext {
+	position: relative;
+	font-size: 14px;
+	top: -8px;
+}
+
+#inner a:hover span {
+	display: block;
+}
+
+#inner ul {
+	list-style-type: none;
+}
+
+#bienvenue, #nadeau, #rioux, #news {
+	cursor: default;
+	font-family: verdana, helvetica, sans serif;
+	position: absolute;
+	color: #361224;
+}
+
+#news {
+	cursor: auto;
+}
+
+#dianenadeau, #jacquesrioux, #diane, #peintre, #jacques, #sculpteur, #text1, #text2, #text3, #text4, #text5, #text6, #text7, #text8 {
+	cursor: default;
+	font-family: verdana, helvetica, sans serif;
+	position: absolute;
+	color: #481224;
+}
+
+#dianenadeau {
+	font-size: 2em;
+	left: 100px;
+	top: -60px;
+}
+
+#jacquesrioux {
+	font-size: 2em;
+	left: 424px;
+	top: 200px;
+}
+
+#bienvenue {
+	font-size: 9em;
+	top: -10px;
+	left: -60px;
+	color: #434;
+}
+
+#design {
+	font-size: 0.6em;
+	text-align: center;
+	color: #361224;
+}
+
+#design a {
+	color: #481224;
+}
+
+#diane {
+	font-size: 3.8em;
+	top: 46px;
+	left: 380px;
+	color: #361224;
+	color: #481224;
+}
+
+#nadeau {
+	font-size: 9em;
+	top: 50px;
+	left: 230px;
+	color: #323;
+	color: #361224;
+}
+
+#peintre {
+	font-size: 2.4em;
+	top: 190px;
+	left: 496px;
+	color: #481224;
+}
+
+#jacques {
+	font-size: 3.8em;
+	top: 38px;
+	left: 180px;
+}
+
+#rioux {
+	font-size: 9em;
+	top: 42px;
+	left: 30px;
+	color: #224;
+}
+
+#sculpteur {
+	font-size: 2.4em;
+	top: 180px;
+	left: 80px;
+}
+
+#jacques, #sculpteur {
+	color: #446;
+}
+
+#text1 {
+	font-size: 2em;
+	left: 100px;
+	top: 0px;
+}
+
+#text2 {
+	font-size: 2.2em;
+	top: 0px;
+	left: 430px;
+}
+
+#text3 {
+	font-size: 2.2em;
+	top: 60px;
+	left: 400px;
+}
+
+#text4 {
+	font-size: 2.2em;
+	top: 60px;
+	left: 430px;
+}
+
+#text5 {
+	font-size: 2.2em;
+	top: 120px;
+	left: 430px;
+}
+
+#text6 {
+	font-size: 3.2em;
+	top: -5px;
+	left: 300px;
+}
+
+#text7 {
+	font-size: 2em;
+	left: 430px;
+	top: 250px;
+}
+
+#text8 {
+	font-size: 1.6em;
+	top: 300px;
+	left: 340px;
+}
+
+h1 {
+	font-size: 2em;
+}
+
+h2 {
+	font-size: 1em;
+}
+
+#box {
+	width: 612px;
+	font-family: verdana, helvetica, sans serif;
+	font-size: 0.8em;
+	margin: auto;
+	padding: 24px;
+}
+
+#box ul {
+	padding: 0 0 0 24px;
+}
+
+#box h2 {
+	font-weight: normal;
+	margin: 12px 0 6px 0;
+/*	border: 1px solid #333;*/
+	background: #000;
+/*	background: #3672aa; blue*/
+/*	color: #eee; light theme*/
+	padding: 4px;
+}
+
+#box h2 a {
+/*	color: #eee; light theme*/
+	float: right;
+	cursor: default;
+	text-decoration: none;
+}
+
+#box h2 a:hover {
+/*	color:#fff; light theme*/
+}
+
+#widebox {
+	width: 735px;
+	font-family: verdana, helvetica, sans serif;
+	font-size: 0.8em;
+	background: #333;
+	color: #fff;
+	margin: 3px auto;
+	margin-bottom: 36px;
+}
+
+h1, h2, #box a, #inner a:hover, #news a:hover {
+	color: #ff7c11;
+	color: #ffba55;
+	color: #bf5d0c; /*orange*/
+/*	color: #3672aa; blue*/
+}
+
+#box a:hover, #design a:hover {
+	color: #961224; /*red*/
+/*	color: #4896bb; blue*/
+}
+
+#news {
+	top: 180px;
+	width: 360px;
+	margin: 0px 20px;
+	padding-bottom: 20px;
+	text-align: left;
+	color: #fff;
+}
+
+#news * {
+	margin: 0;
+	padding: 0;
+}
+
+#news li {
+	display: block;
+}
+
+#news li.unselected {
+	display: none;
+}
+
+#news h1 {
+	position: absolute;
+	text-align: center;
+	visibility: hidden;
+	top: 80px;
+	left:-20px;
+	width: 400px;
+}
+
+#news h2 {
+	font-size: 1.2em;
+}
+
+#news h3 {
+	font-size: 0.8em;
+}
+
+#news li p {
+	margin: 10px 10px 10px 20px;
+}
+
+#news li a {
+	font-weight: bold;
+	color: #ba9672;
+}
+
+#news q {
+	padding-right: 1em;
+}
+
+#news q:before {
+	content: open-quote;
+	margin-left: -0.6em;
+	position: absolute;
+}
+
+#news q:after {
+	content: close-quote;
+	position: absolute;
+}
+
+#news :before, #news :after {
+	font-size: 2em;
+	color: #bf5d0c;
+	color: #ba9672;
+}
+
+#news blockquote:before {
+	content: open-quote;
+	position: absolute;
+}
+
+#news blockquote p:last-child {
+	margin-bottom: -1.25em;
+}
+
+#news blockquote p:last-child:after {
+	content: close-quote;
+	margin-left: 0.2em;
+	vertical-align: top;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+	/* safari only */
+	#news blockquote p:last-child {
+		margin-bottom: 0em;
+	}
+}
+
+#news #previous, #news #next {
+	cursor: pointer;
+	visibility: visible;
+	float: left;
+}
+
+#news #next {
+	float: right;
+}
+
+#news #previous.hidden, #news #next.hidden {
+	color: #000;
+	cursor: default;
+}
+
+#dianenadeau a:hover {
+	color: #361224; /*dark red*/
+	color: #901224; /*nice red*/
+	color: #833; /*pinkish red*/
+}
+
+#jacquesrioux a:hover {
+	color: #446; /*nice blue*/
+}

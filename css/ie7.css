@@ -1,0 +1,15 @@
+/* fixes for IE 7 and lower */
+
+#nav .menu {
+	/*margin: 0;*/
+	margin: 0 0 0 -8px;
+}
+
+#nav .menu ul {
+	/*margin: -3px 0 0 0;*/
+	margin: 1px 0 0 4px;
+}
+
+#news blockquote p:first-child {
+	margin: 10px 10px 10px 20px;
+}
