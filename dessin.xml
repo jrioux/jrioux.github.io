@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery
+	galleryStyle="MODERN"
+	title=""
+	textColor="FFFFFF"
+	frameColor="FFFFFF"
+	frameWidth="0"
+	thumbPosition="LEFT"
+	thumbColumns="3"
+	thumbRows="4"
+	showOpenButton="FALSE"
+	showFullscreenButton="TRUE"
+	maxImageWidth="480"
+	maxImageHeight="640"
+	useFlickr="false"
+	flickrUserName=""
+	flickrTags=""
+	languageCode="FR"
+	languageList=""
+	imagePath="dessin/"
+	thumbPath=""
+	stagePadding = "40"
+>
+
+<image imageURL="dessin/52 dessin.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Dessin par Diane Nadeau, artiste peintre</caption>
+</image>
+<image imageURL="dessin/53 dessin.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Dessin par Diane Nadeau, artiste peintre</caption>
+</image>
+<image imageURL="dessin/54 dessin.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Dessin par Diane Nadeau, artiste peintre</caption>
+</image>
+<image imageURL="dessin/55 dessin.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Dessin par Diane Nadeau, artiste peintre</caption>
+</image>
+<image imageURL="dessin/56 dessin.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Dessin par Diane Nadeau, artiste peintre</caption>
+</image>
+<image imageURL="dessin/57 dessin.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Dessin par Diane Nadeau, artiste peintre</caption>
+</image>
+<image imageURL="dessin/58 dessin.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Dessin par Diane Nadeau, artiste peintre</caption>
+</image>
+<image imageURL="dessin/59 dessin.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Dessin par Diane Nadeau, artiste peintre</caption>
+</image>
+<image imageURL="dessin/60 dessin.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Dessin par Diane Nadeau, artiste peintre</caption>
+</image>
+<image imageURL="dessin/61 dessin.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Dessin par Diane Nadeau, artiste peintre</caption>
+</image>
+<image imageURL="dessin/62 dessin.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Dessin par Diane Nadeau, artiste peintre</caption>
+</image>
+<image imageURL="dessin/63 dessin.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Dessin par Diane Nadeau, artiste peintre</caption>
+</image>
+<image imageURL="dessin/64 dessin.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Dessin par Diane Nadeau, artiste peintre</caption>
+</image>
+<image imageURL="dessin/65 dessin.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Dessin par Diane Nadeau, artiste peintre</caption>
+</image>
+<image imageURL="dessin/66 dessin.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Dessin par Diane Nadeau, artiste peintre</caption>
+</image>
+<image imageURL="dessin/67 dessin.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Dessin par Diane Nadeau, artiste peintre</caption>
+</image>
+<image imageURL="dessin/68 dessin.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Dessin par Diane Nadeau, artiste peintre</caption>
+</image>
+<image imageURL="dessin/69 dessin.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Dessin par Diane Nadeau, artiste peintre</caption>
+</image>
+<image imageURL="dessin/70 dessin.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Dessin par Diane Nadeau, artiste peintre</caption>
+</image>
+<image imageURL="dessin/71 dessin.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Dessin par Diane Nadeau, artiste peintre</caption>
+</image>
+
+</simpleviewergallery>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery
+	galleryStyle="MODERN"
+	title=""
+	textColor="FFFFFF"
+	frameColor="FFFFFF"
+	frameWidth="0"
+	thumbPosition="LEFT"
+	thumbColumns="3"
+	thumbRows="4"
+	showOpenButton="FALSE"
+	showFullscreenButton="TRUE"
+	maxImageWidth="480"
+	maxImageHeight="640"
+	useFlickr="false"
+	flickrUserName=""
+	flickrTags=""
+	languageCode="FR"
+	languageList=""
+	imagePath="peinture/"
+	thumbPath=""
+	stagePadding = "40"
+>
+
+<image imageURL="peinture/50 Diane Nadeau.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Diane Nadeau, artiste peintre</caption>
+</image>
+<image imageURL="peinture/51 complexite humaine.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Complexité Humaine par Diane Nadeau, artiste peintre</caption>
+</image>
+<image imageURL="peinture/52 memoire rebelle.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Mémoire Rebelle par Diane Nadeau, artiste peintre</caption>
+</image>
+<image imageURL="peinture/53 chercher l'ailleur 2.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Chercher l'Ailleur 2 par Diane Nadeau, artiste peintre</caption>
+</image>
+<image imageURL="peinture/54 delire parallele.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Délire Parallèle par Diane Nadeau, artiste peintre</caption>
+</image>
+<image imageURL="peinture/55 reflexion.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Réflexion par Diane Nadeau, artiste peintre</caption>
+</image>
+<image imageURL="peinture/56 regard actuel.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Regard Actuel par Diane Nadeau, artiste peintre</caption>
+</image>
+<image imageURL="peinture/57 l'homme et sa pensee.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>L'Homme et sa Pensée par Diane Nadeau, artiste peintre</caption>
+</image>
+<image imageURL="peinture/58 ocean trompeur 3.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Océan Trompeur 3 par Diane Nadeau, artiste peintre</caption>
+</image>
+<image imageURL="peinture/59 regard bleue.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Regard Bleu par Diane Nadeau, artiste peintre</caption>
+</image>
+<image imageURL="peinture/60 homme orignal.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Homme Orignal par Diane Nadeau, artiste peintre</caption>
+</image>
+<image imageURL="peinture/61 regard sur le monde.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Regard sur le Monde par Diane Nadeau, artiste peintre</caption>
+</image>
+<image imageURL="peinture/62 reflexion 4.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Réflexion 4 par Diane Nadeau, artiste peintre</caption>
+</image>
+<image imageURL="peinture/63 chercher l'ailleur.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Chercher l'Ailleur par Diane Nadeau, artiste peintre</caption>
+</image>
+<image imageURL="peinture/64 reflexion 2.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Réflexion 2 par Diane Nadeau, artiste peintre</caption>
+</image>
+<image imageURL="peinture/65 l'esprit du temps.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>L'Esprit du Temps par Diane Nadeau, artiste peintre</caption>
+</image>
+<image imageURL="peinture/66 les cendres bleues.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Les Cendres Bleues par Diane Nadeau, artiste peintre</caption>
+</image>
+<image imageURL="peinture/67 folie poetique.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Folie Poétique par Diane Nadeau, artiste peintre</caption>
+</image>
+<image imageURL="peinture/68 le temps passe.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Le Temps Passe par Diane Nadeau, artiste peintre</caption>
+</image>
+<image imageURL="peinture/69 analyse psychique.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Analyse Psychique par Diane Nadeau, artiste peintre</caption>
+</image>
+<image imageURL="peinture/70 regard de l'esprit 2.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Regard de l'Esprit 2 par Diane Nadeau, artiste peintre</caption>
+</image>
+<image imageURL="peinture/71 point de fuite.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Point de Fuite par Diane Nadeau, artiste peintre</caption>
+</image>
+<image imageURL="peinture/72 ocean trompeur 2.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Océan Trompeur 2 par Diane Nadeau, artiste peintre</caption>
+</image>
+<image imageURL="peinture/73 mathematique absolue.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Mathématique Absolue par Diane Nadeau, artiste peintre</caption>
+</image>
+<image imageURL="peinture/74 vision aveugle.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Vision Aveugle par Diane Nadeau, artiste peintre</caption>
+</image>
+<image imageURL="peinture/75 reflexion 3.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Réflexion 3 par Diane Nadeau, artiste peintre</caption>
+</image>
+<image imageURL="peinture/76 regard de l'esprit 3.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Regard de l'Esprit 3 par Diane Nadeau, artiste peintre</caption>
+</image>
+<image imageURL="peinture/77 fragilite de l'etre 2.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Fragilité de l'Être 2 par Diane Nadeau, artiste peintre</caption>
+</image>
+<image imageURL="peinture/78 tete dans la boite.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Tête dans la Boîte par Diane Nadeau, artiste peintre</caption>
+</image>
+<image imageURL="peinture/79 rodin.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Rodin par Diane Nadeau, artiste peintre</caption>
+</image>
+<image imageURL="peinture/80 mystique poesie.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Mystique Poésie par Diane Nadeau, artiste peintre</caption>
+</image>
+<image imageURL="peinture/81 fragilite de l'etre.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Fragilité de l'Être par Diane Nadeau, artiste peintre</caption>
+</image>
+<image imageURL="peinture/82 memoire bleue.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Mémoire Bleue par Diane Nadeau, artiste peintre</caption>
+</image>
+
+</simpleviewergallery>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery
+	galleryStyle="MODERN"
+	title=""
+	textColor="FFFFFF"
+	frameColor="FFFFFF"
+	frameWidth="0"
+	thumbPosition="LEFT"
+	thumbColumns="3"
+	thumbRows="4"
+	showOpenButton="FALSE"
+	showFullscreenButton="TRUE"
+	maxImageWidth="480"
+	maxImageHeight="640"
+	useFlickr="false"
+	flickrUserName=""
+	flickrTags=""
+	languageCode="FR"
+	languageList=""
+	imagePath="sculpture/"
+	thumbPath=""
+	stagePadding = "40"
+>
+
+<image imageURL="sculpture/51 Jacques Rioux.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Jacques Rioux, sculpteur</caption>
+</image>
+<image imageURL="sculpture/52 Piege a la liberte.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Piège à la liberté par Jacques Rioux, sculpteur</caption>
+</image>
+<image imageURL="sculpture/53 albatros.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Albatros par Jacques Rioux, sculpteur</caption>
+</image>
+<image imageURL="sculpture/54 entre ciel et terre.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Entre Ciel et Terre par Jacques Rioux, sculpteur</caption>
+</image>
+<image imageURL="sculpture/55 etoile spherique.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Étoile Sphérique par Jacques Rioux, sculpteur</caption>
+</image>
+<image imageURL="sculpture/56 Providence.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Providence par Jacques Rioux, sculpteur</caption>
+</image>
+<image imageURL="sculpture/57 Chevalier noir.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Chevalier Noir par Jacques Rioux, sculpteur</caption>
+</image>
+<image imageURL="sculpture/58 Liaison obscur.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Liaison Obscure par Jacques Rioux, sculpteur</caption>
+</image>
+<image imageURL="sculpture/59 Prisonier.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Prisonier par Jacques Rioux, sculpteur</caption>
+</image>
+<image imageURL="sculpture/60 La tourelle.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>La Tourelle par Jacques Rioux, sculpteur</caption>
+</image>
+<image imageURL="sculpture/61 Le cavalier.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Le Cavalier par Jacques Rioux, sculpteur</caption>
+</image>
+<image imageURL="sculpture/62 La reine.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>La Reine par Jacques Rioux, sculpteur</caption>
+</image>
+<image imageURL="sculpture/63 Le duc.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Le Duc par Jacques Rioux, sculpteur</caption>
+</image>
+<image imageURL="sculpture/64 Excalibur.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Excalibur par Jacques Rioux, sculpteur</caption>
+</image>
+<image imageURL="sculpture/65 Jeanne d'arc.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Jeanne D'Arc par Jacques Rioux, sculpteur</caption>
+</image>
+<image imageURL="sculpture/66 Prince vaillant.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Prince Vaillant par Jacques Rioux, sculpteur</caption>
+</image>
+<image imageURL="sculpture/67 Le guerrier.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Le Guerrier par Jacques Rioux, sculpteur</caption>
+</image>
+<image imageURL="sculpture/68 Epee brisee.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Épée brisée par Jacques Rioux, sculpteur</caption>
+</image>
+<image imageURL="sculpture/69 Ferraille 1.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Féraille 1 par Jacques Rioux, sculpteur</caption>
+</image>
+<image imageURL="sculpture/70 Ferraille 2.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>Féraille 2 par Jacques Rioux, sculpteur</caption>
+</image>
+<image imageURL="sculpture/71 La clee.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>La Clée par Jacques Rioux, sculpteur</caption>
+</image>
+<image imageURL="sculpture/72 La serrure.jpg" thumbURL="" linkURL="" linkTarget="" >
+	<caption>La Serrure par Jacques Rioux, sculpteur</caption>
+</image>
+
+</simpleviewergallery>
